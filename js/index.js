@@ -1,4 +1,4 @@
- var names = ["ESL_SC2", "OgamingSC2", "cretetion", "freecodecamp", "storbeck", "habathcx", "RobotCaleb", "noobs2ninjas", "asdfasdfasdsssss"];
+ var names = ["ESL_SC2", "OgamingSC2", "cretetion", "freecodecamp", "habathcx", "RobotCaleb", "noobs2ninjas", "NotATwitchUser"];
 
 $(document).ready(function (){
   loop()
