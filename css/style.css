@@ -1,0 +1,91 @@
+body {
+  background-color: #8DA4B5;
+  font-family: 'Audiowide', sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  text-align: center;
+}
+
+input, button {
+  border-radius: 4px;
+  border: none;
+}
+
+button {
+  background-color: #69796E;
+}
+
+a {
+  color: #2D033B;
+  text-decoration: none;
+}
+
+h2 {
+  font-size: 18px;
+  padding-top: 12px;
+  line-height: 0.5;
+}
+
+p {
+  text-align: center;
+  line-height: 0.5;
+}
+
+.dummy {
+  display: none;
+}
+
+.result {
+  border-radius: 5px;
+}
+
+.unknown.result p {
+  padding-top: 18px;
+  line-height: 1;
+}
+
+.online {
+  background-color: #199E0D;
+  height: 55px;
+}
+
+.offline {
+  background-color: #AB1005;
+  height: 55px;
+}
+
+.unknown {
+  background-color: #49594E;
+  height: 55px;
+}
+
+.on-logo {
+  height: 55px;
+  border-radius: 5px;
+}
+
+.off-logo {
+  border-radius: 5px;
+  height: 55px;height: 55px;
+  opacity: 0.6;
+}
+
+#search {
+  color: #AB1005;
+}
+
+.logos {
+  display: inline-block;
+  float: left;
+}
+
+#results {
+  max-width: 600px;
+  text-align: center;
+  margin: 0 auto;
+}
